@@ -38,7 +38,7 @@
 
 主要制作者：[@mstouk57g](https://github.com/mstouk57g)
 
-![image](https://github.com/user-attachments/assets/d531f4c5-949d-4ba7-8e07-988d11b695b2)
+![image](https://github.com/user-attachments/assets/6df2ef38-15c8-4aa3-b8e5-61e6cc1f6f15)
 
 * ### [Redstone Launcher](https://github.com/AZ-Studio-2023/RedstoneLauncher)
 

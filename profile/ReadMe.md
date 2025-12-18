@@ -6,9 +6,9 @@
 
 [AZ Studio](https://azteam.cn/) 
 
-[TianJi MTR Minecraft Server](https://tjmtr.top/)
+[TianJi MTR Minecraft Server](https://mtr.tj.cn/)
 
-[AZ Shop](https://shop.azprod.cn/)
+[RailGo](https://railgo.dev/)
 
 ## 欢迎参与我们的讨论
 
@@ -30,23 +30,11 @@
 
 ![image](https://github.com/user-attachments/assets/a0eba4cc-d9ee-41b0-9344-3d7538f79341)
 
-* ### [RailGo](https://github.com/AZ-Studio-2023/RailGo)
+* ### [RailGo](https://github.com/RailGoApps)
 
 一个调用API实现中国铁路信息查询的工具
 
-使用WinUI3和TemplateStudio写的，代码不是很漂亮
+主要制作者：[@mstouk57g](https://github.com/mstouk57g) [@zlk-sys](https://github.com/zlk-sys) [@tkp30](https://github.com/tkp30)
 
-主要制作者：[@mstouk57g](https://github.com/mstouk57g)
-
-![image](https://github.com/user-attachments/assets/6df2ef38-15c8-4aa3-b8e5-61e6cc1f6f15)
-
-* ### [Redstone Launcher](https://github.com/AZ-Studio-2023/RedstoneLauncher)
-
-✨ 新一代Minecraft启动器 | 新目标 再出发 ✨
-
-一个使用Python配上PyQt以及qfluentwidgets写的Minecraft:Java Edition启动器
-
-主要制作者：[@zlk-sys](https://github.com/zlk-sys)
-
-![image](https://github.com/user-attachments/assets/0beaefc2-8aab-4bfc-8ec8-1bf56d058899)
+![RailGo-Introduction-1](https://github.com/user-attachments/assets/72d41efa-f64b-4fd3-b21c-4381063a99c9)
 
